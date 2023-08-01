@@ -1,1 +1,1 @@
-from persistence.database import test as test
+from persistence.database import DatabaseConnection

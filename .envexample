@@ -1,0 +1,4 @@
+MONGO_USER=alvarogarzon
+MONGO_PASS=
+MONGO_CLUSTER=clustergrouponeia.pl9hyms.mongodb.net
+mongodb+srv://alvarogarzon:<password>@clustergrouponeia.pl9hyms.mongodb.net/?retryWrites=true&w=majority

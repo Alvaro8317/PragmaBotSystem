@@ -1,8 +1,8 @@
 from fastapi import FastAPI
-# from . import tasks
-from persistence import test
+from persistence import DatabaseConnection
 app = FastAPI()
 
-# Agregar las rutas definidas en el módulo tasks.py al enrutador principal
-# app.include_router(tasks.router)
-print(test())
+database = DatabaseConnection()
+database.connect()
+database.show_databases()
+database.disconnect()
