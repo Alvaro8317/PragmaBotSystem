@@ -1,3 +1,4 @@
+Diagrama / Draw : https://drive.google.com/file/d/1OvqspVl4pW09ABTFaydrSgDqgp-drin6/view?usp=sharing
 # PragmaBot ES
 ## ¡Hola!
 Bienvenido a nuestro sistema de PragmaBot. Estamos encantados de tenerte aquí y esperamos brindarte toda la ayuda que necesitas.
