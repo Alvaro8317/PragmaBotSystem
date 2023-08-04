@@ -5,7 +5,7 @@ from helpers import *
 
 
 class DatabaseConnection:
-    MONGODB_URI = f"mongodb+srv://{db_user}s:{db_password}@{db_cluster}/?retryWrites=true&w=majority"
+    MONGODB_URI = f"mongodb+srv://{db_user}:{db_password}@{db_cluster}/?retryWrites=true&w=majority"
     client = None
 
     def __init__(self) -> None:
